@@ -1,0 +1,13 @@
+.box {
+    margin-top: 20px;
+    width: 250px;
+    height: 120px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.random-word {
+    margin-top: 20px;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+}
